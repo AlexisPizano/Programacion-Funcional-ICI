@@ -2,7 +2,7 @@
 ## Programación Funcional
 ## Profesor: Walter Alexander Mata Lopez
 ## **Luis Alexis Pizano Navarro**
-## 18-09-2022
+## 29-11-2022
 ## 3°B
 ### Este es mi portafolio de evidencias de la tercera parcial
 
